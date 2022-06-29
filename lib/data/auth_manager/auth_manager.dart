@@ -1,0 +1,5 @@
+class AuthManager {
+  // Future signUpForTalented (){
+
+  // }
+}
